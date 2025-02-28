@@ -13,6 +13,8 @@ This project was developed using the following technologies:
 ```
 /project-root
 │── 📁 main.dart            # The activity
+│── 📝 README.md            # This file
+
 ```
 
 ## 📥 Installation
